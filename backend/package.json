@@ -1,0 +1,23 @@
+{
+  "name": "mern-travel-map",
+  "version": "1.0.0",
+  "description": "Travel Map App built using MERN (React.js, Node.js + React Hooks + Mapbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenukasiva/MERN-Travel-Map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenukasiva/MERN-Travel-Map/issues"
+  },
+  "homepage": "https://github.com/thenukasiva/MERN-Travel-Map#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.8"
+  }
+}

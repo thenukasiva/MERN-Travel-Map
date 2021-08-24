@@ -4,7 +4,7 @@
   "description": "Travel Map App built using MERN (React.js, Node.js + React Hooks + Mapbox",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/thenukasiva/MERN-Travel-Map#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "mongoose": "^5.13.8"
+    "mongoose": "^5.13.8",
+    "nodemon": "^2.0.12"
   }
 }
